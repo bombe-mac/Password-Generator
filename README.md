@@ -1,2 +1,17 @@
-#🔐 Password Generator
-A sleek and responsive password generator built using React and Tailwind CSS. This app allows users to generate strong, customizable passwords with options for length, character types, and more.
+# 🔐 Password Generator
+
+## 🚀 Features
+
+- Generate secure passwords
+- Customize length, character types, etc.
+
+## 💻 Built With
+
+- React
+- Tailwind CSS
+
+## 📦 Installation
+
+```bash
+npm install
+npm run dev
